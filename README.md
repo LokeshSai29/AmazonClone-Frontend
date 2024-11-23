@@ -5,7 +5,7 @@ This repository contains the frontend-only version of an Amazon clone, designed 
 ## Features
 
 - **Responsive Layout**: The design adapts seamlessly to different screen sizes, providing a smooth browsing experience on both desktop and mobile.
-- **Product Categories**: Includes categories like "Dressing and Styles," "Home Appliance," "Furniture," "Devices & Gadgets," and more.
+- **Product Categories**: Includes categories like "Dressing and Styles","Home Appliance","Furniture","Devices & Gadgets" and more.
 - **Dynamic Sections**: Displays promotions, new arrivals, and trending categories, as seen in the original Amazon website.
 - **Navigation**: Interactive header with links for the cart, account settings, and search functionality.
 
