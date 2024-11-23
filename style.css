@@ -260,3 +260,15 @@ ul p{
 .copyright{
     padding-top: 5px;
 }
+.foot-panel3{
+    color: white;
+}
+.foot-panel3 p{
+    font-weight: 700;
+    margin-right: 5px;
+}
+.clone p{
+    color: white;
+    font-weight: 700;
+    margin-left: -110px;
+}
