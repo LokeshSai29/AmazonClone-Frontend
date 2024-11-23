@@ -18,7 +18,9 @@ This repository contains the frontend-only version of an Amazon clone, designed 
 - ![image](https://github.com/user-attachments/assets/0f37bf68-556d-4098-b384-4657af040816)
 - ![image](https://github.com/user-attachments/assets/1e3ed4af-090a-45bd-8e3d-8b275093dd8a)
 - Recording of full website 👇
-- https://github.com/user-attachments/assets/e67efbb5-2be0-4fb8-86d8-19daa0472f62
+- https://github.com/user-attachments/assets/7df0348f-328c-4fca-b509-b626ba4b89ed
+
+
 
 
 
