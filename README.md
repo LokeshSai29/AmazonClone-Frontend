@@ -13,8 +13,10 @@ This repository contains the frontend-only version of an Amazon clone, designed 
 
 - HTML
 - CSS
-- Screenshot of the entire website 👇
-- ![screencapture-file-C-Users-loki0-OneDrive-Desktop-pro-amazon-clone-index-html-2024-11-23-13_26_18](https://github.com/user-attachments/assets/2de38e84-035b-4bd8-8dc2-4948360620dd)
+- Screenshots of the entire website 👇
+- ![image](https://github.com/user-attachments/assets/18db5877-ea69-4985-aa50-c66d4118134b)
+- ![image](https://github.com/user-attachments/assets/0f37bf68-556d-4098-b384-4657af040816)
+- ![image](https://github.com/user-attachments/assets/1e3ed4af-090a-45bd-8e3d-8b275093dd8a)
 - Recording of full website 👇
 - https://github.com/user-attachments/assets/e67efbb5-2be0-4fb8-86d8-19daa0472f62
 
